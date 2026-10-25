@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\alexp\Desktop\John\krnl.place\classicthemeswitcher\classicthemeswitcher\main.cpp(1,9): warning C4005: 'UNICODE': macro redefinition
+      C:\Users\alexp\Desktop\John\krnl.place\classicthemeswitcher\classicthemeswitcher\main.cpp(1,9):
+      'UNICODE' previously declared on the command line
+  
+C:\Users\alexp\Desktop\John\krnl.place\classicthemeswitcher\classicthemeswitcher\main.cpp(2,9): warning C4005: '_UNICODE': macro redefinition
+      C:\Users\alexp\Desktop\John\krnl.place\classicthemeswitcher\classicthemeswitcher\main.cpp(2,9):
+      '_UNICODE' previously declared on the command line
+  
+  classicthemeswitcher.vcxproj -> C:\Users\alexp\Desktop\John\krnl.place\classicthemeswitcher\x64\Debug\classicthemeswitcher.exe
